@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="assets/images/aquaguard_logo.png" alt="AquaGuard Logo" width="300"/>
-</div>
-
-<div align="center">
-
 [![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter)](https://flutter.dev/) [![Dart](https://img.shields.io/badge/Language-Dart-0175C2?logo=dart)](https://dart.dev/) [![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?logo=firebase)](https://firebase.google.com/) [![Google Maps](https://img.shields.io/badge/Maps-Google%20Maps-4285F4?logo=google-maps)](https://developers.google.com/maps) [![Material Design](https://img.shields.io/badge/Design-Material%20Design-757575?logo=material-design)](https://material.io/) [![GitHub](https://img.shields.io/badge/Dev%20Tools-GitHub-181717?logo=github)](https://github.com/)
 
 </div>
