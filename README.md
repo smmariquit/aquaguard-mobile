@@ -63,12 +63,6 @@ AquaGuard Mobile is part of a comprehensive water quality monitoring system that
 
 ---
 
-## 📱 Screenshots
-
-*Coming soon*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -126,32 +120,10 @@ lib/
 
 ---
 
-## 📄 License
+## 👥 Team: Five innovators from UPLB BSCS 
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👥 Team
-
-- **Project Lead** - [Your Name]
-- **Mobile Developer** - [Your Name]
-- **UI/UX Designer** - [Your Name]
-- **Backend Developer** - [Your Name]
-
----
-
-## 🙏 Acknowledgments
-
-- Laguna Lake Development Authority (LLDA)
-- Department of Environment and Natural Resources (DENR)
-- UP Marine Science Institute
-- Local Government Units (LGUs)
-
----
-
-## 📞 Contact
-
-For any queries or support, please reach out to:
-- Email: [your-email@example.com]
-- Project Link: [https://github.com/your-username/aquaguard-mobile]
+- **Project Lead** - Simonee Ezekiel Mariquit
+- **Mobile Developer** - Lawrence Joel Macatangay
+- **UI/UX Designer** - Norman Marfa III
+- **Backend Developer** - Nino Rafael Zerna
+- **Dashboard Developer** - Marc Joemil Mendoza
