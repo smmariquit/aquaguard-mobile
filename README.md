@@ -127,3 +127,7 @@ lib/
 - **UI/UX Designer** - Norman Marfa III
 - **Backend Developer** - Nino Rafael Zerna
 - **Dashboard Developer** - Marc Joemil Mendoza
+
+
+---
+*If this project helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) ☕*
