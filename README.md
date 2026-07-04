@@ -100,12 +100,12 @@ flutter run
 
 ```
 lib/
-├── core/           # Core functionality
-├── data/           # Data models and repositories
-├── features/       # Feature modules
-├── shared/         # Shared widgets and utilities
-├── services/       # External services
-└── main.dart       # Entry point
+├── core/ # Core functionality
+├── data/ # Data models and repositories
+├── features/ # Feature modules
+├── shared/ # Shared widgets and utilities
+├── services/ # External services
+└── main.dart # Entry point
 ```
 
 ---
