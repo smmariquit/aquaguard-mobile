@@ -12,7 +12,7 @@ AquaGuard Mobile is a Flutter-based mobile application that enables communities 
 
 ## 🌊 Project Overview
 
-AquaGuard Mobile is part of a comprehensive water quality monitoring system that includes:
+AquaGuard Mobile is part of a full water quality monitoring system that includes:
 - Solar-powered IoT devices for continuous monitoring
 - Real-time data visualization
 - Community-driven pollution reporting
@@ -128,7 +128,6 @@ lib/
 - **Backend Developer** - Nino Rafael Zerna
 - **Dashboard Developer** - Marc Joemil Mendoza
 
-
 ---
 *If this project helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) ☕*
 
@@ -136,7 +135,6 @@ lib/
 - **Tech Stack:** Static / Basic Scripts
 - **Repository Size:** 142 tracked files
 - **Latest Update:** `b4ce41c chore: add stale issue and PR validators`
-
 
 ---
 *☕ If you found this project useful, you can support my work at [kape.stimmie.dev](https://kape.stimmie.dev)!*
